@@ -1,4 +1,4 @@
-# DaniGomezSanta-REACT-UDEMY
+# REACT-UDEMY- GifExpertApp
 
 Este es mi repositorio del proyecto de GifExpertApp de React
 
